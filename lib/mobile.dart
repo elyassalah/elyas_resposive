@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'adaptive_indicator.dart';
 
 class MobileScreen extends StatelessWidget {
-
+//hello
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -108,3 +108,16 @@ class MobileScreen extends StatelessWidget {
     );
   }
 }
+
+// work in git
+//if i have a task named login
+//1. checkout master .. go to the master if you in another branch
+//2. update master من الاسم اللي فوق بالزاوية عالشمال في سهم اسمو ابديت عشان يبلش يوخذ التعديلات اللي حتصير بس ابلش بالتاسك
+//3. create branch with name of your task من الماستر اللي تحت بالزاوية عالشمال
+//4. code... اكتب كودك مثلا كتبت فوق كومنت هلوو
+//5. commit من الاسهم برضو واكتب المسج تبع الكوميت واعمل كومت بس مش كومت اند بوش الكوميت بوخذ بس اخر اشي صار قبل ما تعمل كوميت بعديه ما بوخذو
+//6. checkout master ارجع للماستر ثاني لانو ممكن بالفتره اللي بين الابديت والكوميت اجا واحد ورفع شغل ف انت مش حتكون ماخذ اخر تحديث وحيصير ايرور
+//7. update master عشان اكون ماخذ اخر ابديت
+//8. checkout your local branch اللي هي اللوج ان وهي بعدها لوكل لاني لسا ما عملتلها بوش عشان تروح عالريموت
+//9. merge master with my current branch من عند الماستر بروح عليه بطلع خيارات بلاقي خيار الميرج
+//10. push and pull request البول ريكويست من الجيت هب
