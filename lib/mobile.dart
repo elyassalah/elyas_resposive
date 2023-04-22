@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'adaptive_indicator.dart';
 
 class MobileScreen extends StatelessWidget {
-
+//hello
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -108,3 +108,11 @@ class MobileScreen extends StatelessWidget {
     );
   }
 }
+
+// work in git
+//if i have a task named login
+//1. checkout master .. go to the master if you in another branch
+//2. update master من الاسم اللي فوق بالزاوية عالشمال في سهم اسمو ابديت عشان يبلش يوخذ التعديلات اللي حتصير بس ابلش بالتاسك
+//3. create branch with name of your task من الماستر اللي تحت بالزاوية عالشمال
+//4. code... اكتب كودك مثلا كتبت فوق كومنت هلوو
+//5. commit من الاسهم برضو واكتب المسج تبع الكوميت واعمل كومت بس مش كومت اند بوش
